@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cloki0610
 - 👀 I’m interested in ... gaming especially MMORPG
-- 🌱 I’m currently learning ... HTML, CSS, Javascript, React,Redux
+- 🌱 I’m currently learning ... HTML, CSS, Javascript, Python, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through email(cloki0610@gmail.com) and discord(LokiGray#7387)
 
