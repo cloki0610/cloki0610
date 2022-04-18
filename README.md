@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rocky Chan</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A junior full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloki0610&label=Profile%20views&color=0e75b6&style=flat" alt="cloki0610" /> </p>
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React.js, FASTAPI**
+- 🌱 I’m currently learning **React.js, Express.js, NEST.js**
 
 - 👯 I’m looking to collaborate on **Web development project**
 
