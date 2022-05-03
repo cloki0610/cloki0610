@@ -1,9 +1,17 @@
-# 💫About Me :
+<h1 align="center">👋 I'm Rocky Chan</h1>
+<h3 align="center">A passionate full-stack developer</h3>
+
+## 💫About Me :
 🔭 I’m currently looking for junior role.
+
 🌱 I’m currently learning React.js, Next.js, Express.js
+
 👯 I’m looking to collaborate on Web development project
+
 👨‍💻 Some of my projects are available at https://codepen.io/cloki0610
+
 💬 Ask me about React, Django
+
 📫 How to reach me cloki0610@gmail.com
 
 ## 🌐Socials
