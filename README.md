@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Rocky Chan</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">Junior full-stack developer</h3>
 
 ## 💫About Me :
 🔭 I’m currently looking for junior role.
