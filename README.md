@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Rocky Chan</h1>
-<h3 align="center">Junior full-stack developer</h3>
+<h3 align="center">Full-stack developer(React/Python) & Solution Architect Associate(SAA-C03)</h3>
 
 ## 💫About Me :
 🔭 I’m currently looking for junior role.
