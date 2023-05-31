@@ -2,9 +2,9 @@
 <h3 align="center">Full-stack developer(React/Python) & Solution Architect Associate(SAA-C03)</h3>
 
 ## 💫About Me :
-🔭 I’m currently looking for junior role.
+🔭 I’m currently looking for junior-mid role or any contract
 
-🌱 I’m currently learning React.js, Next.js, Express.js
+🌱 I’m currently learning .NET Core, and keep practice React.js, Next.js with different libraries for animation
 
 👯 I’m looking to collaborate on Web development project
 
