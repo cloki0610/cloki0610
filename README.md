@@ -4,7 +4,7 @@
 ## 💫About Me :
 🔭 I’m currently looking for junior-mid role or any contract
 
-🌱 I’m currently learning .NET Core, and keep practice React.js, Next.js with different libraries for animation
+🌱 I’m keep improving my skills in React.js, Next.js with different libraries for animation
 
 👯 I’m looking to collaborate on Web development project
 
