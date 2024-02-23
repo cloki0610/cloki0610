@@ -4,13 +4,13 @@
 ## 💫About Me :
 🔭 I’m currently looking for junior-mid role or any contract
 
-🌱 I’m keep improving my skills in React.js, Next.js with different libraries for animation
+🌱 I’m keep improving my skills in React.js, Next.js with animation using CSS, Tailwind, framer-motion
 
-👯 I’m looking to collaborate on Web development project
+👯 I’m looking to collaborate on web development project or mobile app using React Native
 
 👨‍💻 Some of my projects are available at https://codepen.io/cloki0610
 
-💬 Ask me about React, Django
+💬 Ask me about React, Vue, .NET Core and styling
 
 📫 How to reach me cloki0610@gmail.com
 
