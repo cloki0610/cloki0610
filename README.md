@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently looking for junior-entry role or any contract<br>🌱 I’m keep improving my skills in React.js, Next.js, Vue.js with animation using CSS, Tailwind, framer-motion<br>👯 I’m looking to collaborate on web development, data analysis and machine learning project<br>👨‍💻 Some of my projects are available at https://codepen.io/cloki0610<br>💬 Ask me about React, Vue, Rust and UX/UI<br>📫 How to reach me cloki0610@gmail.com
+🔭 Currently looking for junior-mid role or any contract<br>🌱 I’m keep improving my skills in React.js, Next.js, Vue.js with animation using CSS, Tailwind, framer-motion<br>👯 I’m looking to collaborate on web development, data analysis and machine learning project<br>👨‍💻 Some of my projects are available at https://codepen.io/cloki0610<br>💬 Ask me about React, Vue, Rust and UX/UI<br>📫 How to reach me cloki0610@gmail.com
 
 
 ## 🌐 Socials:
