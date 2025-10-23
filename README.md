@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working for [WorkL](https://workl.com/) as a Junior Software Engineer.<br>🌱 I’m keep improving my skills in React.js, Next.js, Vue.js with animation using CSS, Tailwind, framer-motion and Three.js<br>👯 I’m looking to collaborate on web development, data analysis and machine learning project<br>👨‍💻 Some of my projects are available at https://codepen.io/cloki0610<br>💬 Ask me about React, Vue, JavaScript and Rust<br>📫 How to reach me cloki0610@gmail.com
+🔭 Currently working for [WorkL](https://workl.com/) as a Junior Software Engineer.<br>🌱 I’m keep improving my skills in React.js, Next.js, Vue.js with animation using CSS, Tailwind, framer-motion and Three.js<br>👯 I’m looking to collaborate on web development, mobile development and AI integration projects<br>👨‍💻 Some of my works are available at https://codepen.io/cloki0610<br>💬 Ask me about React, Vue, JavaScript and Rust<br>📫 How to reach me cloki0610@gmail.com
 
 
 ## 🌐 Socials:
